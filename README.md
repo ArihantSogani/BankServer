@@ -33,8 +33,7 @@ pathlib (file path handling)
 
 📥 Installation
 
-# Clone the repository
-git clone https://github.com/username/bank-management-system.git
+
 
 # Navigate to the project directory
 cd bank-management-system
